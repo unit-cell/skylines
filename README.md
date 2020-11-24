@@ -37,5 +37,5 @@ The second block of LEDs represents an octave on a piano, black keys on the top 
 
 The last block of LEDs represent different scales form the MusicUtil library. Press any of these to change the selected scale to the corresponding one. You can see the selected scale represented on the root note LEDs with brighter pads.
 
-
+<img src="https://github.com/unit-cell/1285/blob/main/Images/presets_scales_grid.png" width="1500" />
 
