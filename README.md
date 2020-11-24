@@ -23,6 +23,8 @@ The sequencer will be displayed on the grid while norns is on page 1. Use K3 to 
 
 TO DO: add grid diagrams of steps and notes.
 
+<img src="https://github.com/unit-cell/1285/blob/main/images/sequencer.png" width="1500" />
+
 ### Page 2: Presets & scales
 
 The top block of lit LEDs represents memory slots for presets, which store all the information of a patch (except for the internal clock tempo).
