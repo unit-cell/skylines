@@ -15,7 +15,7 @@ Monome grid-based sequencer take on the M185 sequencer by [RYK modular](https://
 
 ## Documentation
 
-Place the grid 128 vertically, with the USB port on top. Change pages with E1.
+Place the grid vertically, with the USB port on top. Change pages with E1.
 
 ### Page 1: Sequencer
 
