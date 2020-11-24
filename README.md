@@ -23,7 +23,7 @@ The sequencer will be displayed on the grid while norns is on page 1. Use K3 to 
 
 TO DO: add grid diagrams of steps and notes.
 
-<img src="https://github.com/unit-cell/1285/blob/main/images/sequencer.png" width="1500" />
+<img src="https://github.com/unit-cell/1285/blob/main/Images/sequencer.png" width="1500" />
 
 ### Page 2: Presets & scales
 
