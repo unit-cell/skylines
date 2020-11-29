@@ -30,13 +30,13 @@ The sequencer will be displayed on the grid while norns is on page 1. Use K3 to 
 
 The top block of lit LEDs represents memory slots for presets, which store all the information of a patch (except for the internal clock tempo).
 
-<img src="https://github.com/unit-cell/1285/blob/main/docs/preset_screen.png" width="500" />
-
 * Press K3 to enter saving mode, and then press a pad in this block to store the preset there. The pad will light up.
 
 * Use E3 to change the function of K3 between saving and deleting. K3 will then delete presets instead of saving them.
 
 * Press K2 to enter loading mode, and then press a preset pad to load the corresponding preset.
+
+<img src="https://github.com/unit-cell/1285/blob/main/docs/preset_screen.png" width="500" />
 
 The second block of LEDs represents an octave on a piano, black keys on the top row and white keys on the bottom row. Press any of these keys to change the root of the current scale to the corresponding note.
 
