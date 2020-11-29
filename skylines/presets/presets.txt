@@ -1,0 +1,53 @@
+return {
+-- Table: {1}
+{
+   {2},
+   {3},
+   {4},
+   {5},
+},
+-- Table: {2}
+{
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+},
+-- Table: {3}
+{
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+},
+-- Table: {4}
+{
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+},
+-- Table: {5}
+{
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+},
+}
