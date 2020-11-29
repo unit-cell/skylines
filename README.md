@@ -1,4 +1,4 @@
-# 1285
+# Skylines
 
 Monome grid-based sequencer take on the M185 sequencer by [RYK modular](https://rykmodular.bigcartel.com/products), also inspired by the [m18s script by jlmitch5](https://github.com/jlmitch5/m18s).
 
