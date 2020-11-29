@@ -20,6 +20,8 @@ Place the grid vertically, with the USB port on top. Change pages with E1.
 
 ### Page 1: Sequencer
 
+<img src="https://github.com/unit-cell/1285/blob/main/docs/sequence_screen.png" width="500" />
+
 The sequencer will be displayed on the grid while norns is on page 1. Use K3 to start the internal clock, and K2 to reset the sequencer to the first step. Alternatively, send a clock signal into crow input 1 to start the sequencer. A 2V pulse into crow input 2 will reset the sequencer.
 
 <img src="https://github.com/unit-cell/1285/blob/main/docs/sequencer_grid.png" width="1500" />
@@ -27,6 +29,8 @@ The sequencer will be displayed on the grid while norns is on page 1. Use K3 to 
 ### Page 2: Presets & scales
 
 The top block of lit LEDs represents memory slots for presets, which store all the information of a patch (except for the internal clock tempo).
+
+<img src="https://github.com/unit-cell/1285/blob/main/docs/preset_screen.png" width="500" />
 
 * Press K3 to enter saving mode, and then press a pad in this block to store the preset there. The pad will light up.
 
